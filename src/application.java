@@ -5,7 +5,7 @@ public class application {
 		
 System.out.println("hello");
 
-System.out.println("nevar neyox gaga");
+System.out.println("salam nevar neyox gaga");
 	}
 
 }
